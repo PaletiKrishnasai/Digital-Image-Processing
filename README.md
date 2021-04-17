@@ -51,4 +51,4 @@ Note(s):
 
 6. Swap phase of the dog image and magnitude of the lena image and display the output.
 
-7. Swap phase of the lena image and magnitude of the dog image ad display the output
+7. Swap phase of the lena image and magnitude of the dog image and display the output
